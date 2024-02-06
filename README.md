@@ -15,7 +15,7 @@ https://bria.ai/
 https://huggingface.co/briaai/RMBG-1.4
 
 ### 🖼 Output
-![Screenshot 2024-02-06 193943](https://github.com/camenduru/bria-rmbg-jupyter/assets/54370274/8c235af8-4654-4252-83a1-392b2d7b0de3)
+![Screenshot 2024-02-06 205401](https://github.com/camenduru/bria-rmbg-replicate/assets/54370274/ba5a1d29-f4ca-44dc-a18b-b375415b6859)
 
 ### 🏢 Sponsor
 https://replicate.com
