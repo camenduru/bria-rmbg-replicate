@@ -3,7 +3,7 @@
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
 ### 🕸 Replicate
-https://replicate.com/camenduru/bria-rmbg-replicate
+https://replicate.com/camenduru/bria-rmbg
 
 ### 🧬 Code
 https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4/tree/main
